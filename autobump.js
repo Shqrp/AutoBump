@@ -1,6 +1,6 @@
 const Discord = new require("discord.js");
 const bot = new Discord.Client();
-const config = new require("config.json");
+const config = new require("./config.json");
 const TOKEN = config.token;
 
 bot.login(TOKEN);
