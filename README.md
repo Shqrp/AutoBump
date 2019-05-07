@@ -1,5 +1,6 @@
 # AutoBump
-![](https://travis-ci.org/TheLifeGamingYT/AutoBump.svg?branch=master)
+![Travis-CI](https://travis-ci.org/TheLifeGamingYT/AutoBump.svg?branch=master)
+![CodeFactor](https://www.codefactor.io/repository/github/thelifegamingyt/autobump/badge/master)
 
 An auto-bumping Discord bot for ServerMate!
 # Usage
