@@ -2,6 +2,7 @@
 [![Travis-CI](https://travis-ci.org/TheLifeGamingYT/AutoBump.svg?branch=master)](https://travis-ci.org/TheLifeGamingYT/AutoBump)
 [![CodeFactor](https://www.codefactor.io/repository/github/thelifegamingyt/autobump/badge/master)](https://www.codefactor.io/repository/github/thelifegamingyt/autobump)
 [![License](https://img.shields.io/github/license/TheLifeGamingYT/AutoBump.svg)](https://github.com/TheLifeGamingYT/AutoBump/blob/master/LICENSE)
+[![DepShield Badge](https://depshield.sonatype.org/badges/TheLifeGamingYT/AutoBump/depshield.svg)](https://depshield.github.io)
 
 An auto-bumping Discord bot for ServerMate!
 # Usage
