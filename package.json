@@ -1,5 +1,5 @@
 {
-  "name": "autobumpforservermate",
+  "name": "AutoBump",
   "version": "1.0.0",
   "description": "An auto-bumping bot for ServerMate!",
   "main": "autobump.js",
@@ -9,8 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node ."
+    "test": "npm test"
   },
   "author": "TheLifeGamingYT",
-  "license": "ISC"
+  "license": "MIT"
 }
