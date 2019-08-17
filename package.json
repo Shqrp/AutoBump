@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm test"
+    "test": "node ."
   },
   "author": "TheLifeGamingYT",
   "license": "MIT"
