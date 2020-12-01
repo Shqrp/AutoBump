@@ -14,7 +14,7 @@ bot.on("message", function(message)
 
       var interval = setInterval (function ()
             {
-              message.channel.send("!bump")
+              message.channel.send("!d bump")
             }, 1200000);
 
       }
